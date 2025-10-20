@@ -55,7 +55,7 @@ const Create = () => {
               </Stack>
               <Flex alignItems="flex-end">
                 <Button isLoading={loading} disabled={loading} onClick={getDataFromSocket}>
-                  Send Test
+                  Send Test Test
                 </Button>
               </Flex>
             </Flex>
